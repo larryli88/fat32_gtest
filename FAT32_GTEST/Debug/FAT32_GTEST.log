@@ -1,0 +1,3 @@
+﻿  FAT32_GTEST.cpp
+c:\users\ws\source\repos\fat32_gtest\fat32_gtest\fat32_gtest.cpp(48): warning C4003: “TEST”宏的实参不足
+  FAT32_GTEST.vcxproj -> C:\Users\ws\source\repos\FAT32_GTEST\Debug\FAT32_GTEST.exe
